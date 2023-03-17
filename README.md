@@ -1,6 +1,7 @@
 # Atliq-Hardware-analysis
 
 Domain:  Consumer Goods
+
 Function: Executive Management
 
 Project title: Consumer Goods Ad_Hoc Insights
